@@ -3,7 +3,9 @@
 https://firetv.padmaflix.net/aynaa/stream.m3u8?id=1&e=.m3u8
 
 
-#EXTINF:-1 tvg-id="2" tvg-name="BTV World" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" tvg-chno="2" group-title="BD PLEX",BTV World
+#EXTINF:-1 tvg-id="2" tvg-name="BTV World" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" tvg-chno="2" group-title="BD PLEX",qq BTV World
+https://edge4.bioscopelive.com/hls/anonymous/WbThpdB9EPFe0iP4EGr56Q/1695494905/zee_bangla.m3u8
+
 https://firetv.padmaflix.net/aynaa/stream.m3u8?id=2&e=.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Sangshad TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed65f2c1-604f-4858-acd5-066fbd00b8ce_180x180_3cbdd15a-53f2-463c-a082-d1e9b1ee74aa.png" tvg-chno="3" group-title="BD PLEX",Sangshad TV
 https://firetv.padmaflix.net/aynaa/stream.m3u8?id=3&e=.m3u8
