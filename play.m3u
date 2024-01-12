@@ -5,6 +5,8 @@ https://sports.padmaflix.net/api/sony_ten1_hd.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" tvg-chno="2" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗",Sony TEN 1 HD 2
 https://firetv.padmaflix.net/aynaa/stream.m3u8?id=76&e=.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="BTV National" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" tvg-chno="1" group-title="BD PLEX",BTV National
+https://firetv.padmaflix.net/aynaa/stream.m3u8?id=1&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗",Sony TEN 2 HD
 https://ranapk.xyz/JIO/play.php?id=sony_ten2_hd
