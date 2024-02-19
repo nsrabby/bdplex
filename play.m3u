@@ -1,2 +1,2 @@
-#EXTINF:-1 tvg-id="2" tvg-name="PSL" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTchubUETeNV0LFRY5rhStgjW1wFhl01gB9pg&usqp=CAU" tvg-chno="2" group-title="BD PLEX ",PSL
+#EXTINF:-1 tvg-id="3" tvg-name="PSL" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTchubUETeNV0LFRY5rhStgjW1wFhl01gB9pg&usqp=CAU" tvg-chno="3" group-title="BD PLEX ",PSL
 http://192.168.31.128:8080/sports/stream.php?id=tenspk&e=.m3u8
