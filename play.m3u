@@ -1,4 +1,2 @@
 #EXTINF:-1 tvg-id="3" tvg-name="PSL" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTchubUETeNV0LFRY5rhStgjW1wFhl01gB9pg&usqp=CAU" tvg-chno="3" group-title="BD PLEX ",PSL
-https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_720p.m3u8?isSubM3u8=1
-
 http://192.168.31.128:8080/sports/stream.php?id=tenspk&e=.m3u8
