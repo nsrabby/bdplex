@@ -12,8 +12,8 @@ http://100.100.100.100:8088/304/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla",Zee Bangla Cinema
 http://100.100.100.100:8088/305/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
-http://100.100.100.100:8088/306/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV
 http://100.100.100.100:8088/201/tracks-v1a1/mono.m3u8
@@ -39,4 +39,17 @@ http://100.100.100.100:8088/210/tracks-v1a1/mono.m3u8
 http://100.100.100.100:8088/211/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla",Banglavision HD
 http://100.100.100.100:8088/212/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English",Discovery
+http://100.100.100.100:8088/801/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English",National Geographic HD
+http://100.100.100.100:8088/802/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Cartoon",Sony Aath
+http://100.100.100.100:8088/306/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon", NICK
+http://100.100.100.100:8088/601/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Cartoon",Disney Junior 
+http://100.100.100.100:8088/602/tracks-v1a1/mono.m3u8
 
